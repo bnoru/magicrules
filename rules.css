@@ -1,0 +1,25 @@
+.container {
+  width: 70%;
+  background-color: whitesmoke;
+  margin: 0 auto;
+  padding: 2em;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  font-family: 'Libre Baskerville';
+}
+
+.pagetitle {
+  margin: 0 auto;
+  text-align: center;
+}
+
+li {
+  list-style: none;
+}
+
+p {
+  font-size: 1.2em;
+}
+/*# sourceMappingURL=rules.css.map */
